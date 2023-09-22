@@ -1,0 +1,36 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+    text-align: center;
+}
+ div{
+    font-family: 'Courier New', Courier, monospace;
+   
+    
+ }
+
+ h2{
+   font-size: 18px;
+    text-align: center;
+    color : red;
+    font-weight: normal;
+    
+ }
+
+ h3{
+    font-size: 22px;
+    color: red;
+    text-decoration: underline;
+ }
+
+ p{
+    font-size:  18px;
+    line-height: 28px;
+ }
+
+ img{
+    width: 60%;
+    margin: auto;
+    display: block;
+   
+ }
